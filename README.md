@@ -13,4 +13,6 @@ Go to https://www.python.org/downloads/ and download the latest python release
 For first time enter `python -m pip install PyYAML` into the command prompt 
 
 # How to run
+Navigate to the directory from the zip file using the command prompt
+
 Enter `covid_automation.py` into the command prompt and watch the magic happen
