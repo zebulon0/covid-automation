@@ -12,7 +12,7 @@ import yaml
 import time
 
 #  vars for the RIT daily check-in
-conf = yaml.load(open("hidden.yml"))
+conf = yaml.full_load(open("hidden.yml"))
 ritUser = conf["rit_main"]["username"]
 ritPassword = conf["rit_main"]["password"]
 
