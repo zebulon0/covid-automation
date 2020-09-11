@@ -1,5 +1,5 @@
 # RIT daily covid check-in automation
-Fills out both RIT ready check-in and ats check-in
+Fills out both RIT ready ATS daily check-in pages
 
 #How to use
 Edit the `hidden.yml` file. Add your RIT credentials and your ATS login credentials
