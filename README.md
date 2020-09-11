@@ -1,12 +1,16 @@
 # RIT daily covid check-in automation
 Completes both the RIT ready and ATS daily check-in forms
 
-#How to use
+#Setup
 Download and unzip the the files into a folder of your choice
 
-Edit the `hidden.yml` file in the folder
+Edit and save the `hidden.yml` file in the folder using a text editor
 
 Add your **RIT** and your **ATS** login credentials
+
+Go to https://www.python.org/downloads/ and download the latest python release
+
+For first time enter `python -m pip install PyYAML` into command prompt 
 
 #How to run
 Enter `covid_automation.py` into the terminal and watch the magic happen
