@@ -10,7 +10,7 @@ Add your **RIT** and your **ATS** login credentials
 
 Go to https://www.python.org/downloads/ and download the latest python release
 
-For first time enter `python -m pip install PyYAML` into command prompt 
+For first time enter `python -m pip install PyYAML` into the command prompt 
 
 # How to run
-Enter `covid_automation.py` into the terminal and watch the magic happen
+Enter `covid_automation.py` into the command prompt and watch the magic happen
