@@ -1,8 +1,8 @@
 rit_main:
-  username: zah1276
-  password: Chickens20
+  username: username
+  password: password
 
 rit_ats:
-  id: 344007672
-  password: Chickens12
+  id: 1234567890
+  password: password
   database: atsrit
